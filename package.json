@@ -4,8 +4,13 @@
   "description": "滚动中出现的问题",
   "main": "index.js",
   "scripts": {
+    "build": "node build/webpack.config.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "wangjiangang",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.50.0",
+    "webpack-cli": "^4.8.0"
+  }
 }
