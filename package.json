@@ -1,0 +1,11 @@
+{
+  "name": "rollingpenetration",
+  "version": "1.0.0",
+  "description": "滚动中出现的问题",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wangjiangang",
+  "license": "ISC"
+}
