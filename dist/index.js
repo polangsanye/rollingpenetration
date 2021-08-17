@@ -1,0 +1,2 @@
+(()=>{"use strict";new class{constructor(){this.scrollTo=0}showUiCallback(){const l=document.scrollingElement,o=l.scrollTop;this.scrollTop=o,l.style.position="fixed",l.style.top=-this.scrollTop+"px"}hideUiCallback(){const l=document.scrollingElement;l.style.position="static",l.scrollTop=this.scrollTop}}})();
+//# sourceMappingURL=index.js.map
