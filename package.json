@@ -1,6 +1,6 @@
 {
   "name": "rollingpenetration",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "滚动中出现的问题",
   "main": "dist/index.js",
   "scripts": {
