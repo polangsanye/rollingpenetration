@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2021-08-17 10:05:18
- * @LastEditTime: 2021-08-17 10:15:35
+ * @LastEditTime: 2021-08-17 12:01:11
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \rollingpenetration\src\index.js
@@ -30,6 +30,7 @@ class Rollingpenetration {
   }
 }
 
-const rollingpenetration= new Rollingpenetration()
 
-export default rollingpenetration
+
+
+export const rollingpenetration = new Rollingpenetration()

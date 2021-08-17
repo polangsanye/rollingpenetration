@@ -1,8 +1,8 @@
 {
   "name": "rollingpenetration",
-  "version": "2.0.0",
+  "version": "2.0.7",
   "description": "滚动中出现的问题",
-  "main": "dist/index.js",
+  "main": "index.js",
   "scripts": {
     "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
